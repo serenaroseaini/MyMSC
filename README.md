@@ -7,12 +7,13 @@ Serena Roseaini Taylor, Wan Fariza binti Fauzi
 Introduction:
 
 The MyMSC corpus is made public for research purpose.
-MyMSC contained 53 videos (MP4, 30fps) in Malay language, with 1208 segments.
-The segmentations were done using ELAN 6.2 and manually transcribed via the same tool to extract spoken words. Each utterances were saved with its time-frame.
+MyMSC is a collection of 53 opinionated videos in Malay language, with 1208 segments. The videos were from political and social domain.
+The video clips were manually transcribed to extract spoken words. Each utterances were saved with its time-frame.
 Audio segments have been extracted on both formats, MP3 and .WAV.
 
-Annotation is performed at two levels, multimodal level and text level. It is hope that the corpus can benefit SA in text analysis and Multimodal analysis.
-For annotation files, please contact fariza.fauzi@UKM.edu.my or p105968@siswa.ukm.edu.my or at serenaroseaini@gmail.com
+Annotation is performed at two levels, multimodal level and text level. It is hope that the corpus will benefit research in textual sentiment analysis(SA)
+and multimodal sentiment analysis(MSA).
+For annotation files, please contact fariza.fauzi@UKM.edu.my or p105968@siswa.ukm.edu.my or at serenaroseaini@gmail.com.
 
 Disclaimer:
 
