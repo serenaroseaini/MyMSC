@@ -1,5 +1,6 @@
 # MyMSC
 MyMSC stands for Malay Multimodal Sentiment Corpus
+It consists of video, audio and textual data in segmentation and full versions.
 
 MyMSC corpus was developed by:
 Serena Roseaini Taylor, Wan Fariza binti Fauzi 
@@ -13,11 +14,10 @@ Audio segments have been extracted on both formats, MP3 and .WAV.
 
 Annotation is performed at two levels, multimodal level and text level. It is hope that the corpus will benefit research in textual sentiment analysis(SA)
 and multimodal sentiment analysis(MSA).
-For annotation files, please contact fariza.fauzi@UKM.edu.my or p105968@siswa.ukm.edu.my or at serenaroseaini@gmail.com.
 
 Disclaimer:
 
 Please citate this repository if use the corpus.
 The corpus is only for research and none profit use and it is not allowed to be used for any other purposes without a writen approval from the author(s). 
-Please email us before distributing the corpus.
+Please email us before distributing the corpus (fariza.fauzi@UKM.edu.my or p105968@siswa.ukm.edu.my or serenaroseaini@gmail.com).
 Official journal paper for citation will be added soon.
