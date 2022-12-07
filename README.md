@@ -2,9 +2,11 @@
 MyMSC stands for Malay Multimodal Sentiment Corpus.
 
 It consists of video, audio and textual data in segmentation and full versions.
+Due to space limitation, audio and video data will be provided upon request.
+
 MyMSC corpus was developed by:
 
-Serena Roseaini Taylor, Dr.Wan Fariza binti Fauzi 
+Serena Roseaini Taylor, Fariza Fauzi 
 
 # Introduction:
 
@@ -15,6 +17,7 @@ Audio segments have been extracted on both formats, MP3 and .WAV.
 
 Annotation is performed at two levels, multimodal level and text level. It is hope that the corpus will benefit research in textual sentiment analysis(SA)
 and multimodal sentiment analysis(MSA).
+
 
 # Disclaimer:
 
