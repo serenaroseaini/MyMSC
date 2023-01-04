@@ -18,8 +18,6 @@ Audio segments have been extracted on both formats, MP3 and .WAV.
 Annotation is performed at two levels, multimodal level and text level. It is hope that the corpus will benefit research in textual sentiment analysis(SA)
 and multimodal sentiment analysis(MSA).
 
-Video and Audio data are not uploaded here due to space issue. Please email us for the complete corpus.
-
 
 # Disclaimer:
 
