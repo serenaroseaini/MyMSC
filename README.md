@@ -2,7 +2,8 @@
 MyMSC stands for Malay Multimodal Sentiment Corpus.
 
 It consists of video, audio, and textual data in segmentation and full versions.
-Due to space limitations, audio and video data will be provided upon request.
+Please find the full corpus in the given link.
+https://drive.google.com/file/d/1a4_dbZ-LWHC9Ux5_pqUGFLD2sAl2TPv-/view?usp=drive_link
 
 MyMSC corpus was developed by:
 
