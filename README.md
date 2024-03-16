@@ -11,8 +11,8 @@ Serena Roseaini Taylor, Fariza Fauzi
 
 # Introduction:
 
-The MyMSC corpus is made public for research purposes.
-MyMSC is a collection of 53 opinionated videos in Malay language, with 1208 segments. The videos were from political and social domain.
+The MyMSC corpus is made public solely for academic research purposes.
+MyMSC is a collection of 53 opinionated videos in Malay language, with 1208 segments. The videos were from politics and social domains.
 The video clips were manually transcribed to extract spoken words. Each utterance was saved with its time frame.
 Audio segments have been extracted on both formats, MP3 and .WAV.
 
@@ -23,6 +23,6 @@ and multimodal sentiment analysis(MSA).
 # Disclaimer:
 
 Please cite this repository if using the corpus.
-The corpus is only for research and non-profit use and it is not allowed to be used for any other purposes without written approval from the author(s). 
+The corpus is solely for academic and research purposes and will not be distributed for commercial gain. It is not allowed to be used for any other purposes without written approval from the author(s). 
 Please email us before distributing the corpus (fariza.fauzi@UKM.edu.my or p105968@siswa.ukm.edu.my or serenaroseaini@gmail.com).
 Official journal paper for citation will be added soon.
