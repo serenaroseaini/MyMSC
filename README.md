@@ -1,28 +1,32 @@
-# MyMSC
-MyMSC stands for Malay Multimodal Sentiment Corpus.
+# MyMSC: Malay Multimodal Sentiment Corpus
 
-It consists of video, audio, and textual data in segmentation and full versions.
-Please find the full corpus in the given link.
-https://drive.google.com/file/d/1a4_dbZ-LWHC9Ux5_pqUGFLD2sAl2TPv-/view?usp=drive_link
+The MyMSC (Malay Multimodal Sentiment Corpus) is a comprehensive dataset designed for academic research in sentiment analysis. It contains segmented and full-length versions of video, audio, and textual data in the Malay language.
 
-MyMSC corpus was developed by:
+[**Access the Full Corpus**](https://drive.google.com/file/d/13HrLe5Khzq7lZBAAGcAUebfli8AwF3E6/view?usp=sharing)
 
-Serena Roseaini Taylor, Fariza Fauzi 
+### Developed by
+- Serena Roseaini Taylor
+- Fariza Fauzi
 
-# Introduction:
+---
 
-The MyMSC corpus is made public solely for academic research purposes.
-MyMSC is a collection of 53 opinionated videos in Malay language, with 1208 segments. The videos were from politics and social domains.
-The video clips were manually transcribed to extract spoken words. Each utterance was saved with its time frame.
-Audio segments have been extracted on both formats, MP3 and .WAV.
+## Introduction
 
-Annotation is performed at two levels, multimodal level and text level. It is hoped that the corpus will benefit research in textual sentiment analysis(SA)
-and multimodal sentiment analysis(MSA).
+The MyMSC corpus provides valuable resources for exploring sentiment in Malay-language videos on political and social topics. The collection includes 53 opinion-based videos, divided into 1,208 segments. However, due to copyright restrictions, only 51 videos containing 1,118 segments are provided here for public access.
 
+Each video segment was manually transcribed to capture spoken content, with precise timestamps noted for each utterance. Both MP3 and WAV formats are included for each audio segment.
 
-# Disclaimer:
+Annotations are provided at two levels: multimodal and text. This corpus is intended to support advancements in both textual sentiment analysis (SA) and multimodal sentiment analysis (MSA).
 
-Please cite this repository if using the corpus.
-The corpus is solely for academic and research purposes and will not be distributed for commercial gain. It is not allowed to be used for any other purposes without written approval from the author(s). 
-Please email us before distributing the corpus (fariza.fauzi@UKM.edu.my or p105968@siswa.ukm.edu.my or serenaroseaini@gmail.com).
-Official journal paper for citation will be added soon.
+---
+
+## Disclaimer
+
+If using the MyMSC corpus, please ensure that you cite this repository. The dataset is provided exclusively for academic and research purposes and may not be used for commercial applications. Any use beyond academic research requires prior written permission from the authors.
+
+For inquiries or distribution requests, please contact:
+- [fariza.fauzi@UKM.edu.my](mailto:fariza.fauzi@UKM.edu.my)
+- [p105968@siswa.ukm.edu.my](mailto:p105968@siswa.ukm.edu.my)
+- [serenaroseaini@gmail.com](mailto:serenaroseaini@gmail.com)
+
+A citation for the official journal paper will be added here soon.
