@@ -29,4 +29,5 @@ For inquiries or distribution requests, please contact:
 - [p105968@siswa.ukm.edu.my](mailto:p105968@siswa.ukm.edu.my)
 - [serenaroseaini@gmail.com](mailto:serenaroseaini@gmail.com)
 
-A citation for the official journal paper will be added here soon.
+A citation for the official journal paper:
+Serena Taylor and Fariza Fauzi. 2025. Multimodal Sentiment Analysis for the Malay Language: New Corpus using CNN-based Framework. ACM Trans. Asian Low-Resour. Lang. Inf. Process. 24, 8, Article 74 (August 2025), 26 pages. https://doi.org/10.1145/3703445
